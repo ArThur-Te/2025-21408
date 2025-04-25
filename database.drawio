@@ -54,6 +54,9 @@
             <mxPoint x="280" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uAoKzE6YUwxDYiCq_e6p-42" value="" style="swimlane;startSize=0;dashed=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="1100" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
