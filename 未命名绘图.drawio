@@ -119,7 +119,7 @@
         <mxCell id="VvNNvmXoVmuiQTiPr6FO-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;shape=link;strokeColor=#7032FF;" edge="1" parent="S6JlThQ4uSs-xVqhzySi-1" source="VvNNvmXoVmuiQTiPr6FO-29" target="VvNNvmXoVmuiQTiPr6FO-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VvNNvmXoVmuiQTiPr6FO-57" value="" style="shape=mxgraph.arrows.jump-in_arrow_2;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;direction=west;" vertex="1" parent="S6JlThQ4uSs-xVqhzySi-1">
+        <mxCell id="VvNNvmXoVmuiQTiPr6FO-57" value="" style="shape=mxgraph.arrows.jump-in_arrow_2;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#996185;direction=west;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="S6JlThQ4uSs-xVqhzySi-1">
           <mxGeometry x="333" y="360" width="59" height="107.15" as="geometry" />
         </mxCell>
       </root>
