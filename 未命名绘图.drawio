@@ -69,7 +69,7 @@
           <mxGeometry x="66" y="390" width="252.72" height="28" as="geometry" />
         </mxCell>
         <mxCell id="S6JlThQ4uSs-xVqhzySi-45" value="Soft Prompt + LLMï¼ˆPartially Frození ¾í·Š + LoRAí ½í´¥ï¼‰" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="S6JlThQ4uSs-xVqhzySi-1" vertex="1">
-          <mxGeometry x="56" y="300" width="320" height="30" as="geometry" />
+          <mxGeometry x="56" y="320" width="374" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VvNNvmXoVmuiQTiPr6FO-4" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="S6JlThQ4uSs-xVqhzySi-1">
           <mxGeometry x="66" y="580" width="10" height="20" as="geometry" />
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="VvNNvmXoVmuiQTiPr6FO-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;shape=link;strokeColor=#7032FF;" edge="1" parent="S6JlThQ4uSs-xVqhzySi-1" source="VvNNvmXoVmuiQTiPr6FO-29" target="VvNNvmXoVmuiQTiPr6FO-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VvNNvmXoVmuiQTiPr6FO-57" value="" style="shape=mxgraph.arrows.jump-in_arrow_2;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;direction=west;" vertex="1" parent="S6JlThQ4uSs-xVqhzySi-1">
+          <mxGeometry x="333" y="360" width="59" height="107.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
