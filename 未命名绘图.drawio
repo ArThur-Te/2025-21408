@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.5">
   <diagram name="ç¬¬ 1 é¡µ" id="bXYtJlNt-gT7Dt2ynSdT">
-    <mxGraphModel dx="390" dy="272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
         <mxCell id="S6JlThQ4uSs-xVqhzySi-44" value="(b)&lt;span style=&quot;white-space: pre;&quot;&gt;                             &lt;/span&gt;TIMN &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; í ½í´¥" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="S6JlThQ4uSs-xVqhzySi-1" vertex="1">
           <mxGeometry x="66" y="390" width="252.72" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="S6JlThQ4uSs-xVqhzySi-45" value="Soft Prompt + LLMï¼ˆPartially Frození ¾í·Š + LoRAí ½í´¥ï¼‰" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="S6JlThQ4uSs-xVqhzySi-1" vertex="1">
+        <mxCell id="S6JlThQ4uSs-xVqhzySi-45" value="Soft Prompt + LLMï¼ˆPartially Frození ¾í·Š + LoRAí ½í´¥ï¼‰" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;gradientColor=#FF66B3;" parent="S6JlThQ4uSs-xVqhzySi-1" vertex="1">
           <mxGeometry x="50" y="289.57" width="374" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VvNNvmXoVmuiQTiPr6FO-4" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="S6JlThQ4uSs-xVqhzySi-1">
